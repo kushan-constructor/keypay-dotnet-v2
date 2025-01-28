@@ -7,6 +7,7 @@ namespace KeyPayV2.Au.Enums
     {
         LocalAddress,
         ForeignAddress,
-        LocalCareOfAddress
+        LocalCareOfAddress,
+        testAddress,
     }
 }
